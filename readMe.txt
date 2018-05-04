@@ -71,3 +71,5 @@ The output is a single number, which is the sum of the return values obtained
 after processing every line.
 -------------
 1450.08
+
+
