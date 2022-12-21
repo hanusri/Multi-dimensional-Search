@@ -1,6 +1,6 @@
 Long Project 4
 -------
-The project is to implement Multi-dimensional search using multiple efficient 
+This project is to implement Multi-dimensional search using multiple efficient 
 data structures on a store of items.
 
 
